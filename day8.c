@@ -1,4 +1,4 @@
-//Write a program to input three numbers and find the largest among them using if–else.
+//Write a program to input a character and check whether it is an uppercase alphabet, lowercase alphabet, digit, or special character.
 
 
 
@@ -23,3 +23,4 @@ int main() {
     return 0;
 
 }
+
